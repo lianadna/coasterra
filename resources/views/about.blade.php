@@ -146,16 +146,16 @@
 							<span>Our History</span>
 						</div>
 						<div class="common-title text-start">
-							<h2>Journey Was Started</h2>
+							<h2>Awal Sebuah Perjalanan</h2>
 						</div>
 						<div class="c-tabs-wrapper">
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
 								<li class="nav-item" role="presentation">
 									<button class="nav-link active" id="c-tab-1" data-bs-toggle="tab" data-bs-target="#c-tab-1-pane" type="button" role="tab" aria-controls="c-tab-1-pane" aria-selected="true">
-										2020
+										2026
 									</button>
 								</li>
-								<li class="nav-item" role="presentation">
+								<!-- <li class="nav-item" role="presentation">
 									<button class="nav-link" id="c-tab-2" data-bs-toggle="tab" data-bs-target="#c-tab-2-pane" type="button" role="tab" aria-controls="c-tab-2-pane" aria-selected="false">
 										2021
 									</button>
@@ -174,28 +174,27 @@
 									<button class="nav-link" id="c-tab-5" data-bs-toggle="tab" data-bs-target="#c-tab-5-pane" type="button" role="tab" aria-controls="c-tab-5-pane" aria-selected="false">
 										2024
 									</button>
-								</li>
+								</li> -->
 							</ul>
 							<div class="tab-content" id="myTabContent">
 								<div class="tab-pane fade show active" id="c-tab-1-pane" role="tabpanel" aria-labelledby="c-tab-1" tabindex="0">
 									<div class="tab-content">
 										<div class="year">
-											<h6>Year 2020</h6>
+											<h6>Tahun 2026</h6>
 										</div>
 										<div class="reward">
-											<h5>Got First Reward From (NYC)</h5>
+											<h5>Coasterra Resmi Didirikan</h5>
 										</div>
 										<div class="text">
 											<p>
-												Despite applying for three times and even hiring a
-												lawyer to assist with the process. Morgan was unable
-												to get authorization’ to fly to the USA for the
-												premiere of her film about a factory-farmed pig.
+												Coasterra hadir pada tahun 2026 sebagai <i>coastal climate solutions venture</i>
+												yang menghubungkan sains, masyarakat, pemerintah, dan sektor industri untuk
+												menghadirkan solusi berbasis alam bagi kawasan pesisir Indonesia.
 											</p>
 										</div>
 										<div class="annual-donation-wrap">
 											<a href="{{ route('project') }}" class="e-primary-btn has-icon">
-												See Our Achievement
+												Lihat Program Kami
 												<span class="icon-wrap">
                                                     <span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span>
                                                 </span>
@@ -203,7 +202,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="tab-pane fade" id="c-tab-2-pane" role="tabpanel" aria-labelledby="c-tab-2" tabindex="0">
+								<!-- <div class="tab-pane fade" id="c-tab-2-pane" role="tabpanel" aria-labelledby="c-tab-2" tabindex="0">
 									<div class="tab-content">
 										<div class="year">
 											<h6>Year 2021</h6>
@@ -303,9 +302,9 @@
 													<span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span>
                                                 </span>
 											</a>
-										</div>
-									</div>
-								</div>
+										</div> -->
+									<!-- </div>
+								</div> -->
 							</div>
 						</div>
 					</div>
