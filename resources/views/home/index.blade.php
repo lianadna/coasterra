@@ -1166,16 +1166,13 @@
 				<div class="col-xl-4 m-b-lg-60 m-b-md-60 m-b-xs-60">
 					<div class="testimonial-content" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 						<div class="common-subtitle">
-							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>Cerita & Testimoni</span>
+							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>Testimonials</span>
 						</div>
 						<div class="common-title text-start">
-							<h2>Apa Kata <span><i class="fa-solid fa-quote-right"></i> Mereka?</span></h2>
+							<h2>Why They Believe <span><i class="fa-solid fa-quote-right"></i> In Us</span></h2>
 						</div>
 						<div class="text">
-							<p>Nantikan cerita dari mitra, relawan, dan komunitas yang bertumbuh bersama kami.
-								Jika Anda pernah berkolaborasi dengan Coasterra, kami mengundang Anda
-								untuk membagikan pengalaman tersebut.
-							</p>
+							<p>Be part of our journey by sharing your experience with Coasterra.</p>
 						</div>
 						<!-- <div class="reviews">
 							<h3>
@@ -1184,7 +1181,7 @@
 							<h5>Positive Reviews</h5>
 						</div> -->
 						<a class="review-btn" href="{{ route('contact') }}"><img alt="icon" src="{{ asset('assets/img/icons/icon-3.svg') }}">
-							<span><span>Bagikan Testimoni Anda</span> <i class="fa-solid fa-arrow-right-long"></i></span></a>
+							<span><span>Write your honest review</span> <i class="fa-solid fa-arrow-right-long"></i></span></a>
 					</div>
 				</div>
 				<div class="col-xl-8">
@@ -1194,7 +1191,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.webp') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1202,15 +1199,13 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
-													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
-													dan kolaborasi yang kami jalankan.
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
 												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Segera Hadir</h5>
-												<h6>Testimoni Mitra & Komunitas</h6>
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
@@ -1218,7 +1213,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.2.webp') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1226,15 +1221,13 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
-													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
-													dan kolaborasi yang kami jalankan.
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
 												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Segera Hadir</h5>
-												<h6>Testimoni Mitra & Komunitas</h6>
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
@@ -1242,7 +1235,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.3.webp') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1250,15 +1243,13 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
-													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
-													dan kolaborasi yang kami jalankan.
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
 												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Segera Hadir</h5>
-												<h6>Testimoni Mitra & Komunitas</h6>
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
@@ -1266,7 +1257,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.2.webp') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1274,15 +1265,13 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
-													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
-													dan kolaborasi yang kami jalankan.
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
 												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Segera Hadir</h5>
-												<h6>Testimoni Mitra & Komunitas</h6>
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
@@ -1301,115 +1290,34 @@
 		<div class="container">
 			<div class="partners-title" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 				<div class="line-right"><img alt="shape-4" src="{{ asset('assets/img/shapes/shape-4.webp') }}"></div>
-				<h3>Mitra Kami</h3>
+				<h3>Major Partners</h3>
 				<div class="line"><img alt="shape-4" src="{{ asset('assets/img/shapes/shape-4.webp') }}"></div>
 			</div>
 			<div class="row p-t-60 p-b-60">
 				<div class="col-xl-12">
 					<div class="partner-marquee">
-						<!-- <div class="partner-marquee-layout">
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-2.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-3.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-4.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-5.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-6.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-7.webp') }}"></div>
+						<div class="partner-marquee-layout">
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
 						</div>
 						<div class="partner-marquee-layout">
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-2.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-3.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-4.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-5.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-6.webp') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-7.webp') }}"></div>
-						</div> -->
-						<div class="partner-marquee-layout">
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-						</div>
-						<div class="partner-marquee-layout">
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
-							<div class="partner-1">
-								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
-									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
-										Coming Soon
-									</span>
-								</div>
-							</div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="partner-btn text-center" data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
 				<a class="e-primary-btn has-icon" href="{{ route('contact') }}">
-					Jadi Mitra Kami
+					Become a Partner
 					<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i> <i class="fa-regular fa-arrow-right"></i></span></span>
 				</a>
 			</div>
@@ -1791,10 +1699,9 @@
 							</a>
 						</div>
 						<div class="text">
-							<p>
-								Introducing our team of talented and skilled professionals
-								who are ready to increase your productivity and bring your
-								business.
+							<p>								
+								Nature-Based Climate Solutions for Coastal Resilience & Empowered Communities.
+								<!-- Together for Resilient Coasts, Stronger Communities. -->
 							</p>
 						</div>
 						<div class="info">
@@ -1802,13 +1709,13 @@
 							<p>Mon-Sat: <span>10:00am to 07:30pm</span></p>
 						</div>
 						<div class="social-links">
-							<a href="https://facebook.com">
+							<!-- <a href="https://facebook.com">
 								<i class="fab fa-facebook-f"></i>
 							</a>
 							<a href="https://twitter.com">
 								<i class="fab fa-x-twitter"></i>
-							</a>
-							<a href="https://www.instagram.com">
+							</a> -->
+							<a href="https://www.instagram.com/coast.terra">
 								<i class="fab fa-instagram"></i>
 							</a>
 							<a href="https://linkedin.com">
@@ -1822,15 +1729,16 @@
 				<div class="footer-widget">
 					<h3 class="w-title">
 						<span><img src="{{ asset('assets/img/icons/icon-1.svg') }}" alt="icon"/></span>
-						Quick Links
+						Tautan
 					</h3>
 					<ul>
-						<li><a href="{{ route('about') }}">About Company</a></li>
-						<li><a href="{{ route('services') }}">Our Causes</a></li>
-						<li><a href="{{ route(('campingDonation')) }}">Investor Presentation</a></li>
-						<li><a href="{{ route('donations') }}">Pricing Plan</a></li>
-						<li><a href="{{ route('volunteer') }}">Meet Our Team</a></li>
-						<li><a href="{{ route('contact') }}">Contact Us</a></li>
+						<li><a href="{{ route('about') }}">Tentang</a></li>
+						<li><a href="{{ route('services') }}">Program</a></li>
+						<!-- <li><a href="{{ route(('campingDonation')) }}">Investor Presentation</a></li>
+						<li><a href="{{ route('donations') }}">Pricing Plan</a></li> -->
+						<li><a href="{{ route('volunteer') }}">Tim</a></li>
+						<li><a href="{{ route('blogStandard') }}">Blog</a></li>
+						<li><a href="{{ route('contact') }}">Kontak</a></li>
 					</ul>
 				</div>
 			</div>
@@ -1838,15 +1746,15 @@
 				<div class="footer-widget">
 					<h3 class="w-title">
 						<span><img src="{{ asset('assets/img/icons/icon-1.svg') }}" alt="icon"/></span>
-						Our Services
+						Fokus Kami
 					</h3>
 					<ul>
-						<li><a href="{{ route(('campingDetails')) }}">Tree Plantation</a></li>
-						<li><a href="{{ route(('campingDonation')) }}">Forest Cleaning</a></li>
-						<li><a href="{{ route(('servicesDetails')) }}">Plastic Recycling</a></li>
-						<li><a href="{{ route('project') }}">Natural Power</a></li>
-						<li><a href="{{ route('project') }}">Renewable Energy</a></li>
-						<li><a href="{{ route(('projectDetails')) }}">Water Refine</a></li>
+						<li><a href="{{ route(('campingDetails')) }}">Coastal Assessment</a></li>
+						<li><a href="{{ route(('campingDonation')) }}">Blue Carbon</a></li>
+						<li><a href="{{ route(('servicesDetails')) }}">ESG & CSR</a></li>
+						<li><a href="{{ route('project') }}">Community Empowerment</a></li>
+						<li><a href="{{ route('project') }}">Research & Innovation</a></li>
+						<li><a href="{{ route(('projectDetails')) }}">Cross-Sector Collaboration</a></li>
 					</ul>
 				</div>
 			</div>
@@ -1854,7 +1762,7 @@
 				<div class="footer-widget">
 					<h3 class="w-title">
 						<span><img src="{{ asset('assets/img/icons/icon-1.svg') }}" alt="icon"/></span>
-						Get in Touch
+						Hubungi Kami
 					</h3>
 					<div class="get-in-touch">
 						<a href="#" class="footer-address">
@@ -1862,8 +1770,8 @@
 								<i class="fa-solid fa-location-dot"></i>
 							</div>
 							<div class="text">
-								<h6>Address</h6>
-								<p>Jones Street, New York, USA</p>
+								<h6>Alamat</h6>
+								<p>Semarang, Jawa Tengah, Indonesia</p>
 							</div>
 						</a>
 						<a href="mailto:support@example.com" class="email">
@@ -1880,8 +1788,8 @@
 								<i class="fa-solid fa-phone-arrow-up-right"></i>
 							</div>
 							<div class="text">
-								<h6>Phone</h6>
-								<p>+70 264 566 579</p>
+								<h6>Telepon</h6>
+								<p>+62 XXX XXX XXX</p>
 							</div>
 						</a>
 					</div>
@@ -1895,7 +1803,7 @@
 				<div class="container">
 					<div class="footer-bottom-layout">
 						<div class="footer-copyright">
-							© {{ now()->year }} Econest. All Rights Reserved.
+							© {{ now()->year }} Coasterra. All Rights Reserved.
 						</div>
 						<div class="footer-bottom-menu">
 							<ul>
