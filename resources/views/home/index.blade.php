@@ -1564,16 +1564,16 @@
 				<div class="col-xl-3 col-md-6 col-12">
 					<div class="latest-blog-content" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 						<div class="common-subtitle">
-							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>News & Blog</span>
+							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>Berita & Blog</span>
 						</div>
 						<div class="common-title text-start">
-							<h2>Check Latest Blog Post</h2>
+							<h2>Baca Artikel Terbaru</h2>
 						</div>
 						<div class="text">
-							<p>Advanced cameras combined with a large display, fast performance, and highly.</p>
+							<p>Ikuti perkembangan program, hasil riset, serta cerita langsung dari lapangan.</p>
 						</div>
 						<div class="blog-btn">
-							<a class="e-primary-btn has-icon" href="{{ route(('blogGrid')) }}">Explore All Post
+							<a class="e-primary-btn has-icon" href="{{ route(('blogGrid')) }}">Lihat Semua Artikel
 								<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 						</div>
 					</div>
@@ -1587,30 +1587,30 @@
 										<div class="thumb">
 											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-5" src="{{ asset('assets/img/thumbs/thumb-5.webp') }}"></a>
 											<div class="category">
-												<a href="{{ route(('blogDetails')) }}">Forest</a>
+												<a href="{{ route(('blogDetails')) }}">Mangrove</a>
 											</div>
 											<div class="event-date">
-												<h2>09</h2>
-												<h5>Jan</h5><span>2026</span>
+												<h2>26</h2>
+												<h5>Jul</h5><span>2026</span>
 											</div>
 										</div>
 										<div class="content">
 											<div class="content-top p-0 m-b-20">
 												<div class="title">
-													<h3><a href="{{ route(('blogDetails')) }}">Waste Management</a></h3>
+													<h3><a href="{{ route(('blogDetails')) }}">Selamat Hari Mangrove Sedunia</a></h3>
 												</div>
 												<div class="text">
-													<p>Energy consulting involves providing of advice and guidance on
-														energy</p>
+													<p>Keberadaan pohon-pohon pesisir ini sangat krusial
+														bagi kelestarian planet kita.
+													</p>
 												</div>
 											</div>
 											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read
-													More
+												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Baca Selengkapnya
 													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 												<div class="social-share">
 													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
-														<span>367</span></button>
+														<!-- <span>367</span></button> -->
 													<div class="social-links">
 														<a href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
 														<a href="https://twitter.com"><i class="fab fa-x-twitter"></i></a>
@@ -1627,30 +1627,30 @@
 										<div class="thumb">
 											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-6" src="{{ asset('assets/img/thumbs/thumb-6.webp') }}"></a>
 											<div class="category">
-												<a href="{{ route(('blogDetails')) }}">Recycle</a>
+												<a href="{{ route(('blogDetails')) }}">Coasterra</a>
 											</div>
 											<div class="event-date">
-												<h2>24</h2>
-												<h5>Feb</h5><span>2026</span>
+												<h2>10</h2>
+												<h5>Jul</h5><span>2026</span>
 											</div>
 										</div>
 										<div class="content">
 											<div class="content-top p-0 m-b-20">
 												<div class="title">
-													<h3><a href="{{ route(('blogDetails')) }}">Waste Management</a></h3>
+													<h3><a href="{{ route(('blogDetails')) }}">Introducing Coasterra</a></h3>
 												</div>
 												<div class="text">
-													<p>Energy consulting involves providing of advice and guidance on
-														energy</p>
+													<p>Nature-Based Climate Solutions for Coastal
+														Resilience & Empowered Communities
+													</p>
 												</div>
 											</div>
 											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read
-													More
+												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Baca Selengkapnya
 													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 												<div class="social-share">
 													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
-														<span>367</span></button>
+														<!-- <span>367</span></button> -->
 													<div class="social-links">
 														<a href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
 														<a href="https://twitter.com"><i class="fab fa-x-twitter"></i></a>
@@ -1662,7 +1662,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="swiper-slide">
+								<!-- <div class="swiper-slide">
 									<div class="blog-card">
 										<div class="thumb">
 											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-5" src="{{ asset('assets/img/thumbs/thumb-5.webp') }}"></a>
@@ -1740,8 +1740,8 @@
 												</div>
 											</div>
 										</div>
-									</div>
-								</div>
+									</div> -->
+								<!-- </div> -->
 							</div>
 						</div>
 						<div class="blog-pagination"></div>
@@ -1755,17 +1755,17 @@
 				<div class="row row-gap-4 align-items-center">
 					<div class="col-md-6 col-12">
 						<div class="common-title text-start">
-							<h2>Get interesting <span><img alt="icon" src="{{ asset('assets/img/icons/icon-12.svg') }}"></span> news
+							<h2>Dapatkan update <span><img alt="icon" src="{{ asset('assets/img/icons/icon-12.svg') }}"></span> menarik
 								<span><i class="fa-solid fa-arrow-right-long"></i></span></h2>
 						</div>
-						<p>Sign up to get the latest updates!</p>
+						<p>Berlangganan newsletter kami untuk mendapatkan informasi terbaru!</p>
 					</div>
 					<div class="col-md-6 col-12">
 						<form class="form-1">
 							<div class="input-wrap-2 m-b-20">
-								<input placeholder="example@gmail.com" type="email">
+								<input placeholder="contoh@email.com" type="email">
 							</div>
-							<button class="e-primary-btn has-icon" type="submit">Subscribe Now
+							<button class="e-primary-btn has-icon" type="submit">Berlangganan
 								<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span>
 							</button>
 						</form>
