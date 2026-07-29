@@ -1166,22 +1166,25 @@
 				<div class="col-xl-4 m-b-lg-60 m-b-md-60 m-b-xs-60">
 					<div class="testimonial-content" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 						<div class="common-subtitle">
-							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>Testimonials</span>
+							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>Cerita & Testimoni</span>
 						</div>
 						<div class="common-title text-start">
-							<h2>Why They Believe <span><i class="fa-solid fa-quote-right"></i> In Us</span></h2>
+							<h2>Apa Kata <span><i class="fa-solid fa-quote-right"></i> Mereka?</span></h2>
 						</div>
 						<div class="text">
-							<p>Llikely to then a dental prosthetic is added then dental prosthetic occaecat laborum.</p>
+							<p>Nantikan cerita dari mitra, relawan, dan komunitas yang bertumbuh bersama kami.
+								Jika Anda pernah berkolaborasi dengan Coasterra, kami mengundang Anda
+								untuk membagikan pengalaman tersebut.
+							</p>
 						</div>
-						<div class="reviews">
+						<!-- <div class="reviews">
 							<h3>
 								<span class="purecounter" data-purecounter-duration="1" data-purecounter-end="99">0</span>%
 							</h3><img alt="favicon" src="{{ asset('assets/img/logo/favicon.webp') }}">
 							<h5>Positive Reviews</h5>
-						</div>
+						</div> -->
 						<a class="review-btn" href="{{ route('contact') }}"><img alt="icon" src="{{ asset('assets/img/icons/icon-3.svg') }}">
-							<span><span>Write your honest review</span> <i class="fa-solid fa-arrow-right-long"></i></span></a>
+							<span><span>Bagikan Testimoni Anda</span> <i class="fa-solid fa-arrow-right-long"></i></span></a>
 					</div>
 				</div>
 				<div class="col-xl-8">
@@ -1192,20 +1195,22 @@
 									<div class="testimonial-card">
 										<div class="thumb">
 											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.webp') }}">
-											<a class="video-play-btn" data-fancybox="" href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity">Play</a>
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>I was very impressed 😍 involves providing of advice and guidance on
-													energy-related for matters. Understand the advantages hiring
-													professionals to design and maintain your garden. 🙋</p>
+												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
+													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
+													dan kolaborasi yang kami jalankan.
+												</p>
 											</div>
 											<div class="author-details">
-												<h5>Penelope Miller <span>(Arjun)</span></h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Segera Hadir</h5>
+												<h6>Testimoni Mitra & Komunitas</h6>
 											</div>
 										</div>
 									</div>
@@ -1214,20 +1219,22 @@
 									<div class="testimonial-card">
 										<div class="thumb">
 											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.2.webp') }}">
-											<a class="video-play-btn" data-fancybox="" href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity">Play</a>
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>I was very impressed 😍 involves providing of advice and guidance on
-													energy-related for matters. Understand the advantages hiring
-													professionals to design and maintain your garden. 🙋</p>
+												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
+													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
+													dan kolaborasi yang kami jalankan.
+												</p>
 											</div>
 											<div class="author-details">
-												<h5>Penelope Miller <span>(Arjun)</span></h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Segera Hadir</h5>
+												<h6>Testimoni Mitra & Komunitas</h6>
 											</div>
 										</div>
 									</div>
@@ -1236,20 +1243,22 @@
 									<div class="testimonial-card">
 										<div class="thumb">
 											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.3.webp') }}">
-											<a class="video-play-btn" data-fancybox="" href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity">Play</a>
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>I was very impressed 😍 involves providing of advice and guidance on
-													energy-related for matters. Understand the advantages hiring
-													professionals to design and maintain your garden. 🙋</p>
+												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
+													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
+													dan kolaborasi yang kami jalankan.
+												</p>
 											</div>
 											<div class="author-details">
-												<h5>Penelope Miller <span>(Arjun)</span></h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Segera Hadir</h5>
+												<h6>Testimoni Mitra & Komunitas</h6>
 											</div>
 										</div>
 									</div>
@@ -1258,20 +1267,22 @@
 									<div class="testimonial-card">
 										<div class="thumb">
 											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-10.2.webp') }}">
-											<a class="video-play-btn" data-fancybox="" href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity">Play</a>
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>I was very impressed 😍 involves providing of advice and guidance on
-													energy-related for matters. Understand the advantages hiring
-													professionals to design and maintain your garden. 🙋</p>
+												<p>Program Coasterra masih berada pada tahap awal. Testimoni dari mitra,
+													relawan, dan komunitas akan kami tampilkan seiring berkembangnya program
+													dan kolaborasi yang kami jalankan.
+												</p>
 											</div>
 											<div class="author-details">
-												<h5>Penelope Miller <span>(Arjun)</span></h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Segera Hadir</h5>
+												<h6>Testimoni Mitra & Komunitas</h6>
 											</div>
 										</div>
 									</div>
@@ -1290,13 +1301,13 @@
 		<div class="container">
 			<div class="partners-title" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 				<div class="line-right"><img alt="shape-4" src="{{ asset('assets/img/shapes/shape-4.webp') }}"></div>
-				<h3>Major Partners</h3>
+				<h3>Mitra Kami</h3>
 				<div class="line"><img alt="shape-4" src="{{ asset('assets/img/shapes/shape-4.webp') }}"></div>
 			</div>
 			<div class="row p-t-60 p-b-60">
 				<div class="col-xl-12">
 					<div class="partner-marquee">
-						<div class="partner-marquee-layout">
+						<!-- <div class="partner-marquee-layout">
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-2.webp') }}"></div>
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-3.webp') }}"></div>
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-4.webp') }}"></div>
@@ -1311,13 +1322,94 @@
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-5.webp') }}"></div>
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-6.webp') }}"></div>
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-7.webp') }}"></div>
+						</div> -->
+						<div class="partner-marquee-layout">
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+						</div>
+						<div class="partner-marquee-layout">
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
+							<div class="partner-1">
+								<div class="flex h-24 w-48 items-center justify-center rounded-xl border-2 border-dashed border-gray-300 bg-gray-50">
+									<span class="text-lg font-semibold uppercase tracking-widest text-gray-400">
+										Coming Soon
+									</span>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="partner-btn text-center" data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
 				<a class="e-primary-btn has-icon" href="{{ route('contact') }}">
-					Become a Partner
+					Jadi Mitra Kami
 					<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i> <i class="fa-regular fa-arrow-right"></i></span></span>
 				</a>
 			</div>
