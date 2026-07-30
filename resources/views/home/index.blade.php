@@ -1533,7 +1533,7 @@
 								<div class="swiper-slide">
 									<div class="blog-card">
 										<div class="thumb">
-											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-6" src="{{ asset('assets/img/thumbs/thumb-6.webp') }}"></a>
+											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-6" src="{{ asset('assets/img/thumbs/thumb-news-2.svg') }}"></a>
 											<div class="category">
 												<a href="{{ route(('blogDetails')) }}">Coasterra</a>
 											</div>
