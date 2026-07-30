@@ -1331,8 +1331,8 @@
 			<div class="contact-form" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 				<div class="form-content">
 					<div class="form-content-top">
-						<h3>Send Us Message<br>
-							<span>For Donate!😍</span></h3>
+						<h3>Contact Us<br>
+							<span>Have a Question?</span></h3>
 						<p>The point of using lorem ipsum is that it has more-or-less packages normal</p>
 					</div>
 					<form id="contact-form" action="assets/mail.php" method="post">
@@ -1466,22 +1466,22 @@
 	<!-- our-events-section end -->
 
 	<!-- latest-blog-section start -->
-	<section class="latest-blog-section p-t-100 p-t-xs-80 p-b-60 p-b-xs-20 p-b-md-20 p-b-lg-20 p-b-xl-20" style="background-image: url(assets/img/bg/latest-blog-bg.webp)">
+	<section class="latest-blog-section p-t-100 p-t-xs-80 p-b-60 p-b-xs-20 p-b-md-20 p-b-lg-20 p-b-xl-20" style="background-image: url(assets/img/bg/latest-news-bg.svg)">
 		<div class="container">
 			<div class="row justify-content-between m-b-150 m-b-xl-120 m-b-lg-100 m-b-md-80 m-b-xs-80">
 				<div class="col-xl-3 col-md-6 col-12">
 					<div class="latest-blog-content" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 						<div class="common-subtitle">
-							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>Berita & Blog</span>
+							<img alt="icon-2" src="{{ asset('assets/img/icons/icon-2.svg') }}"> <span>News & Blog</span>
 						</div>
 						<div class="common-title text-start">
-							<h2>Baca Artikel Terbaru</h2>
+							<h2>Check Our Latest Blog Post</h2>
 						</div>
 						<div class="text">
-							<p>Ikuti perkembangan program, hasil riset, serta cerita langsung dari lapangan.</p>
+							<p>Insights, research, and updates from Coasterra.</p>
 						</div>
 						<div class="blog-btn">
-							<a class="e-primary-btn has-icon" href="{{ route(('blogGrid')) }}">Lihat Semua Artikel
+							<a class="e-primary-btn has-icon" href="{{ route(('blogGrid')) }}">Explore All Posts
 								<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 						</div>
 					</div>
@@ -1493,7 +1493,7 @@
 								<div class="swiper-slide">
 									<div class="blog-card">
 										<div class="thumb">
-											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-5" src="{{ asset('assets/img/thumbs/thumb-5.webp') }}"></a>
+											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-5" src="{{ asset('assets/img/thumbs/thumb-news-1.svg') }}"></a>
 											<div class="category">
 												<a href="{{ route(('blogDetails')) }}">Mangrove</a>
 											</div>
@@ -1505,7 +1505,7 @@
 										<div class="content">
 											<div class="content-top p-0 m-b-20">
 												<div class="title">
-													<h3><a href="{{ route(('blogDetails')) }}">Selamat Hari Mangrove Sedunia</a></h3>
+													<h3><a href="{{ route(('blogDetails')) }}">Today is World Mangrove Day!</a></h3>
 												</div>
 												<div class="text">
 													<p>Keberadaan pohon-pohon pesisir ini sangat krusial
@@ -1514,7 +1514,7 @@
 												</div>
 											</div>
 											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Baca Selengkapnya
+												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read More
 													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 												<div class="social-share">
 													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
@@ -1554,7 +1554,7 @@
 												</div>
 											</div>
 											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Baca Selengkapnya
+												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read More
 													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 												<div class="social-share">
 													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
@@ -1658,22 +1658,22 @@
 			</div>
 			<div class="latest-blog-row-bottom" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 				<div class="row-bottom-thumb">
-					<div class="thumb"><img alt="thumb" src="{{ asset('assets/img/thumbs/thumb-84.webp') }}"></div>
+					<div class="thumb"><img alt="thumb" src="{{ asset('assets/img/thumbs/thumb-news.svg') }}"></div>
 				</div>
 				<div class="row row-gap-4 align-items-center">
 					<div class="col-md-6 col-12">
 						<div class="common-title text-start">
-							<h2>Dapatkan update <span><img alt="icon" src="{{ asset('assets/img/icons/icon-12.svg') }}"></span> menarik
+							<h2>Get interesting <span><img alt="icon" src="{{ asset('assets/img/icons/icon-12.svg') }}"></span> news
 								<span><i class="fa-solid fa-arrow-right-long"></i></span></h2>
 						</div>
-						<p>Berlangganan newsletter kami untuk mendapatkan informasi terbaru!</p>
+						<p>Sign up to get the latest updates!</p>
 					</div>
 					<div class="col-md-6 col-12">
 						<form class="form-1">
 							<div class="input-wrap-2 m-b-20">
-								<input placeholder="contoh@email.com" type="email">
+								<input placeholder="example@email.com" type="email">
 							</div>
-							<button class="e-primary-btn has-icon" type="submit">Berlangganan
+							<button class="e-primary-btn has-icon" type="submit">Subscribe Now
 								<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span>
 							</button>
 						</form>
@@ -1729,16 +1729,16 @@
 				<div class="footer-widget">
 					<h3 class="w-title">
 						<span><img src="{{ asset('assets/img/icons/icon-1.svg') }}" alt="icon"/></span>
-						Tautan
+						Quick Links
 					</h3>
 					<ul>
-						<li><a href="{{ route('about') }}">Tentang</a></li>
+						<li><a href="{{ route('about') }}">About Us</a></li>
 						<li><a href="{{ route('services') }}">Program</a></li>
 						<!-- <li><a href="{{ route(('campingDonation')) }}">Investor Presentation</a></li>
 						<li><a href="{{ route('donations') }}">Pricing Plan</a></li> -->
-						<li><a href="{{ route('volunteer') }}">Tim</a></li>
+						<li><a href="{{ route('volunteer') }}">Our Team</a></li>
 						<li><a href="{{ route('blogStandard') }}">Blog</a></li>
-						<li><a href="{{ route('contact') }}">Kontak</a></li>
+						<li><a href="{{ route('contact') }}">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -1746,15 +1746,19 @@
 				<div class="footer-widget">
 					<h3 class="w-title">
 						<span><img src="{{ asset('assets/img/icons/icon-1.svg') }}" alt="icon"/></span>
-						Fokus Kami
+						Our Services
 					</h3>
 					<ul>
-						<li><a href="{{ route(('campingDetails')) }}">Coastal Assessment</a></li>
-						<li><a href="{{ route(('campingDonation')) }}">Blue Carbon</a></li>
-						<li><a href="{{ route(('servicesDetails')) }}">ESG & CSR</a></li>
-						<li><a href="{{ route('project') }}">Community Empowerment</a></li>
-						<li><a href="{{ route('project') }}">Research & Innovation</a></li>
-						<li><a href="{{ route(('projectDetails')) }}">Cross-Sector Collaboration</a></li>
+						<!-- <li><a href="{{ route(('campingDetails')) }}">Coastal Assessment</a></li>
+						<li><a href="{{ route(('campingDonation')) }}">CSR Project Management</a></li>
+						<li><a href="{{ route(('servicesDetails')) }}">Climate Education</a></li>
+						<li><a href="{{ route('project') }}">ESG Reporting</a></li>
+						<li><a href="{{ route('project') }}">Carbon Readiness</a></li>
+						<li><a href="{{ route(('projectDetails')) }}">Blue Carbon Enablement</a></li> -->
+						<li><a href=" ">Coastal Assessment</a></li>
+						<li><a href=" ">Climae Education Awareness</a></li>
+						<li><a href=" ">ESG & CSR Implementation</a></li>
+						<li><a href=" ">Blue Carbon Readiness</a></li>
 					</ul>
 				</div>
 			</div>
@@ -1762,7 +1766,7 @@
 				<div class="footer-widget">
 					<h3 class="w-title">
 						<span><img src="{{ asset('assets/img/icons/icon-1.svg') }}" alt="icon"/></span>
-						Hubungi Kami
+						Get in Touch
 					</h3>
 					<div class="get-in-touch">
 						<a href="#" class="footer-address">
@@ -1770,8 +1774,8 @@
 								<i class="fa-solid fa-location-dot"></i>
 							</div>
 							<div class="text">
-								<h6>Alamat</h6>
-								<p>Semarang, Jawa Tengah, Indonesia</p>
+								<h6>Address</h6>
+								<p>Semarang, Central Java, Indonesia</p>
 							</div>
 						</a>
 						<a href="mailto:support@example.com" class="email">
@@ -1788,7 +1792,7 @@
 								<i class="fa-solid fa-phone-arrow-up-right"></i>
 							</div>
 							<div class="text">
-								<h6>Telepon</h6>
+								<h6>Phone</h6>
 								<p>+62 XXX XXX XXX</p>
 							</div>
 						</a>
