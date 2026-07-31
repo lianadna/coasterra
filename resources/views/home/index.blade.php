@@ -1301,19 +1301,19 @@
 				<div class="col-xl-12">
 					<div class="partner-marquee">
 						<div class="partner-marquee-layout">
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
 						</div>
 						<div class="partner-marquee-layout">
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
 						</div>
 					</div>
