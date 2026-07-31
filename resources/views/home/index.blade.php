@@ -1314,7 +1314,7 @@
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
 							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
-							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-coming-soon.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
 						</div>
 					</div>
 				</div>
@@ -1699,7 +1699,7 @@
 					<div class="about-widget">
 						<div class="footer-logo">
 							<a href="{{ route('index') }}">
-								<img src="{{ asset('assets/img/logo/logo-white.svg') }}" alt="logo"/>
+								<img src="{{ asset('assets/img/logo/logo-coasterra.svg') }}" alt="logo"/>
 							</a>
 						</div>
 						<div class="text">
