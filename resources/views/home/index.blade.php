@@ -1174,12 +1174,12 @@
 						<div class="text">
 							<p>Be part of our journey by sharing your experience with Coasterra.</p>
 						</div>
-						<!-- <div class="reviews">
+						<div class="reviews">
 							<h3>
 								<span class="purecounter" data-purecounter-duration="1" data-purecounter-end="99">0</span>%
 							</h3><img alt="favicon" src="{{ asset('assets/img/logo/favicon.webp') }}">
 							<h5>Positive Reviews</h5>
-						</div> -->
+						</div>
 						<a class="review-btn" href="{{ route('contact') }}"><img alt="icon" src="{{ asset('assets/img/icons/icon-3.svg') }}">
 							<span><span>Write your honest review</span> <i class="fa-solid fa-arrow-right-long"></i></span></a>
 					</div>
@@ -1191,7 +1191,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi-1.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1199,13 +1199,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Joining Coasterra's activities gave me a deeper understanding of
+													Indonesia's coastal ecosystems. The team is welcoming, organized, and passionate
+													about creating positive environmental impact.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Nadia Putri <span>(Naput)</span></h5>
+												<h6>Volunteer</h6>
 											</div>
 										</div>
 									</div>
@@ -1213,7 +1214,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi-2.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1221,13 +1222,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Coasterra brings together communities, researchers,
+													and organizations with a shared vision for healthier coastlines.
+													I'm excited to see their future initiatives grow.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Budi Santoso</h5>
+												<h6>Community Representative</h6>
 											</div>
 										</div>
 									</div>
@@ -1235,7 +1237,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi-3.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1243,13 +1245,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Working with Coasterra has been a meaningful experience. Their data-driven
+													approach and commitment to coastal restoration make every collaboration
+													well-organized and impactful.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Arif Rahman <span>(Arif)</span></h5>
+												<h6>Partner</h6>
 											</div>
 										</div>
 									</div>
@@ -1257,7 +1260,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi-4.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -1265,13 +1268,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Coasterra combines environmental action with community engagement in
+													a way that feels both practical and inspiring. It's encouraging to see a team committed
+													to creating long-term impact for Indonesia's coastal ecosystems.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Michelle Tan <span>(Michelle)</span></h5>
+												<h6>Sustainability Advocate</h6>
 											</div>
 										</div>
 									</div>
@@ -1326,27 +1330,27 @@
 	<!-- major-partners end -->
 
 	<!-- contact-us start -->
-	<section class="contact-us" style="background-image: url(assets/img/bg/contact-us-bg.webp)">
+	<section class="contact-us" style="background-image: url(assets/img/bg/contact-us-bg-new.svg)">
 		<div class="container">
 			<div class="contact-form" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 				<div class="form-content">
 					<div class="form-content-top">
 						<h3>Contact Us<br>
-							<span>Have a Question?</span></h3>
-						<p>The point of using lorem ipsum is that it has more-or-less packages normal</p>
+							<span>Let's Connect</span></h3>
+						<p>Have questions, feedback, or ideas? We'd love to hear from you.</p>
 					</div>
 					<form id="contact-form" action="assets/mail.php" method="post">
 						<div class="input-wrap-3 m-b-15">
-							<input placeholder="Ashikul Islam Sihan" type="text" name="name">
+							<input placeholder="Your Name" type="text" name="name">
 						</div>
 						<div class="input-wrap-3 m-b-15">
-							<input placeholder="example@gmail.com" type="email" name="email">
+							<input placeholder="example@email.com" type="email" name="email">
 						</div>
 						<div class="input-wrap-3 m-b-15">
-							<input placeholder="+1 xxx xxx xxxx" type="text" name="phone">
+							<input placeholder="+62 xxx xxx xxxx" type="text" name="phone">
 						</div>
 						<div class="input-wrap-3 m-b-15">
-							<textarea placeholder="Say Something..." name="message"></textarea>
+							<textarea placeholder="Write your message..." name="message"></textarea>
 						</div>
 						<button class="e-primary-btn is-hover-white has-icon" type="submit">Submit Now
 							<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span>
@@ -1381,25 +1385,25 @@
 								<div class="top-left">
 									<img alt="calendar-icon" src="{{ asset('assets/img/icons/calendar-2.svg') }}">
 									<div class="event-date">
-										<h3>20 <span>March<br>
+										<h3>30 <span>August<br>
 									in 2026</span></h3>
 									</div>
 								</div>
 								<div class="top-right">
-									<img alt="authors" src="{{ asset('assets/img/authors/author-1.webp') }}">
+									<img alt="authors" src="{{ asset('assets/img/authors/author-1.svg') }}">
 									<div class="people-joined">
 										<h5>236</h5><span>Joined People</span>
 									</div>
 								</div>
 							</div>
 							<div class="event-card-middle text-start">
-								<h2><a href="{{ route(('campingDetails')) }}">Tree Plantation Challenge</a></h2>
+								<h2><a href="{{ route(('campingDetails')) }}">Mangrove Planting Day</a></h2>
 								<div class="address">
 									<div class="location">
-										<i class="fa-regular fa-location-dot"></i> <span>Jones Street, New York</span>
+										<i class="fa-regular fa-location-dot"></i> <span>Pulau Kelapa, Kepulauan Seribu</span>
 									</div>
 									<div class="time">
-										<i class="fa-regular fa-clock"></i> <span>8:30am - 4:00pm</span>
+										<i class="fa-regular fa-clock"></i> <span>08:30 WIB - 16:00 WIB</span>
 									</div>
 								</div>
 								<div class="event-btn">
@@ -1409,9 +1413,9 @@
 							</div>
 						</div>
 						<div class="thumb">
-							<a href="{{ route(('campingDetails')) }}"><img alt="thumb-8" src="{{ asset('assets/img/thumbs/thumb-8.webp') }}"></a>
+							<a href="{{ route(('campingDetails')) }}"><img alt="thumb-8" src="{{ asset('assets/img/thumbs/thumb-event-1.svg') }}"></a>
 							<div class="category">
-								<a href="{{ route(('campingDetails')) }}">Tree Plantation</a>
+								<a href="{{ route(('campingDetails')) }}">Mangrove Restoration</a>
 							</div>
 							<div class="shape-3"><img alt="shape-3" src="{{ asset('assets/img/shapes/shape-3.webp') }}"></div>
 						</div>
@@ -1424,25 +1428,25 @@
 								<div class="top-left">
 									<img alt="calendar-icon" src="{{ asset('assets/img/icons/calendar-2.svg') }}">
 									<div class="event-date">
-										<h3>28 <span>February<br>
+										<h3>14 <span>September<br>
 									in 2026</span></h3>
 									</div>
 								</div>
 								<div class="top-right">
-									<img alt="authors" src="{{ asset('assets/img/authors/author-1.webp') }}">
+									<img alt="authors" src="{{ asset('assets/img/authors/author-1.svg') }}">
 									<div class="people-joined">
 										<h5>49</h5><span>Joined People</span>
 									</div>
 								</div>
 							</div>
 							<div class="event-card-middle text-start">
-								<h2><a href="{{ route(('campingDetails')) }}">Forest Cleaning Challenge</a></h2>
+								<h2><a href="{{ route(('campingDetails')) }}">Coastal Clean-Up & Education</a></h2>
 								<div class="address">
 									<div class="location">
-										<i class="fa-regular fa-location-dot"></i> <span>Los Angeles</span>
+										<i class="fa-regular fa-location-dot"></i> <span>Pulau Kelapa, Kepulauan Seribu</span>
 									</div>
 									<div class="time">
-										<i class="fa-regular fa-clock"></i> <span>10:30am - 4:00pm</span>
+										<i class="fa-regular fa-clock"></i> <span>09:00 WIB - 12:00 WIB</span>
 									</div>
 								</div>
 								<div class="blog-btn">
@@ -1452,9 +1456,9 @@
 							</div>
 						</div>
 						<div class="thumb">
-							<a href="{{ route(('campingDetails')) }}"><img alt="thumb-9" src="{{ asset('assets/img/thumbs/thumb-9.webp') }}"></a>
+							<a href="{{ route(('campingDetails')) }}"><img alt="thumb-9" src="{{ asset('assets/img/thumbs/thumb-event-2.svg') }}"></a>
 							<div class="category">
-								<a href="{{ route(('campingDetails')) }}">Forest</a>
+								<a href="{{ route(('campingDetails')) }}">Community</a>
 							</div>
 							<div class="shape-3"><img alt="shape-3" src="{{ asset('assets/img/shapes/shape-3.webp') }}"></div>
 						</div>

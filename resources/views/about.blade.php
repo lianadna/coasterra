@@ -481,23 +481,21 @@
 						</div>
 						<div class="common-title text-start">
 							<h2>
-								Why They Believe
-								<span><i class="fa-solid fa-quote-right"></i>In Us</span>
+								Why They Believe <span><i class="fa-solid fa-quote-right"></i> In Us</span>
 							</h2>
 						</div>
 						<div class="text">
 							<p>
-								Llikely to then a dental prosthetic is added then dental
-								prosthetic occaecat laborum.
+								Be part of our journey by sharing your experience with Coasterra.
 							</p>
 						</div>
-						<div class="reviews">
+						<!-- <div class="reviews">
 							<h3>
                                 <span class="purecounter" data-purecounter-duration="2" data-purecounter-end="99">0</span>%
 							</h3>
 							<img src="{{ asset('assets/img/logo/favicon.webp') }}" alt="favicon"/>
 							<h5>Positive Reviews</h5>
-						</div>
+						</div> -->
 						<a href="{{ route('contact') }}" class="review-btn">
 							<img src="{{ asset('assets/img/icons/icon-3.svg') }}" alt="icon"/>
 							<span><span>Write your honest review</span><i class="fa-solid fa-arrow-right-long"></i></span>
@@ -511,29 +509,21 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img src="{{ asset('assets/img/thumbs/thumb-10.webp') }}" alt="thumb-10"/>
-											<a href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity" data-fancybox class="video-play-btn">Play</a>
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
-												<p>Rating</p>
-												<i class="fa-solid fa-star-sharp"></i>
-												<span>5.0</span>
+												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>
-													I was very impressed 😍 involves providing of
-													advice and guidance on energy-related for matters.
-													Understand the advantages hiring professionals to
-													design and maintain your garden. 🙋
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
-												<h5>
-													Penelope Miller
-													<span> (Arjun) </span>
-												</h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
@@ -541,29 +531,21 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img src="{{ asset('assets/img/thumbs/thumb-10.2.webp') }}" alt="thumb-10"/>
-											<a href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity" data-fancybox class="video-play-btn">Play</a>
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
-												<p>Rating</p>
-												<i class="fa-solid fa-star-sharp"></i>
-												<span>5.0</span>
+												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>
-													I was very impressed 😍 involves providing of
-													advice and guidance on energy-related for matters.
-													Understand the advantages hiring professionals to
-													design and maintain your garden. 🙋
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
-												<h5>
-													Penelope Miller
-													<span> (Arjun) </span>
-												</h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
@@ -571,29 +553,21 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img src="{{ asset('assets/img/thumbs/thumb-10.3.webp') }}" alt="thumb-10"/>
-											<a href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity" data-fancybox class="video-play-btn">Play</a>
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
-												<p>Rating</p>
-												<i class="fa-solid fa-star-sharp"></i>
-												<span>5.0</span>
+												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>
-													I was very impressed 😍 involves providing of
-													advice and guidance on energy-related for matters.
-													Understand the advantages hiring professionals to
-													design and maintain your garden. 🙋
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
-												<h5>
-													Penelope Miller
-													<span> (Arjun) </span>
-												</h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
@@ -601,29 +575,21 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img src="{{ asset('assets/img/thumbs/thumb-10.2.webp') }}" alt="thumb-10"/>
-											<a href="https://www.youtube.com/watch?v=fLeJJPxua3E&ab_channel=Motiversity" data-fancybox class="video-play-btn">Play</a>
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
 											<div class="rating">
-												<p>Rating</p>
-												<i class="fa-solid fa-star-sharp"></i>
-												<span>5.0</span>
+												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>
-													I was very impressed 😍 involves providing of
-													advice and guidance on energy-related for matters.
-													Understand the advantages hiring professionals to
-													design and maintain your garden. 🙋
+												<p>Real stories from our partners and communities will be shared here.
 												</p>
 											</div>
 											<div class="author-details">
-												<h5>
-													Penelope Miller
-													<span> (Arjun) </span>
-												</h5>
-												<h6>Sr. Volunteer</h6>
+												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
+												<h5>Coming Soon <span>(Author)</span></h5>
+												<h6>Partner Testimonials</h6>
 											</div>
 										</div>
 									</div>
