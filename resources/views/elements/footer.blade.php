@@ -1,14 +1,14 @@
-<footer class="footer-section p-t-125" style="background-image: url(assets/img/bg/footer-bg.webp)">
+<footer class="footer-section p-t-125" style="background-image: url(assets/img/bg/footer-bg.svg)">
 	<div class="container">
 		<div class="row justify-content-between row-gap-md-5 row-gap-4 p-b-30">
 			<div class="col-xl-4 col-lg-8 col-md-7">
 				<div class="footer-widget">
 					<div class="about-widget">
 						<div class="footer-logo">
-							<a href="{{ route('index') }}"><img alt="logo" src="{{ asset('assets/img/logo/logo-white.svg') }}"></a>
+							<a href="{{ route('index') }}"><img alt="logo" src="{{ asset('assets/img/logo/logo-coasterra.svg') }}"></a>
 						</div>
 						<div class="text">
-							<p>Meet our team of dedicated environmental professionals committed to protecting nature and supporting your sustainability goals.</p>
+							<p>Nature-Based Climate Solutions for Coastal Resilience & Empowered Communities.</p>
 						</div>
 						<div class="info">
 							<p><b>We're Available</b></p>
@@ -25,19 +25,16 @@
 					<h3 class="w-title">Quick Links</h3>
 					<ul>
 						<li>
-							<a href="{{ route('about') }}">About Company</a>
+							<a href="{{ route('about') }}">About Us</a>
 						</li>
 						<li>
-							<a href="{{ route('services') }}">Our Causes</a>
+							<a href="{{ route('services') }}">Program</a>
 						</li>
 						<li>
-							<a href="{{ route(('campingDonation')) }}">Investor Presentation</a>
+							<a href="{{ route('volunteer') }}">Our Team</a>
 						</li>
 						<li>
-							<a href="{{ route('donations') }}">Pricing Plan</a>
-						</li>
-						<li>
-							<a href="{{ route('volunteer') }}">Meet Our Team</a>
+							<a href="{{ route('blogStandard') }}">Blog</a>
 						</li>
 						<li>
 							<a href="{{ route('contact') }}">Contact Us</a>
@@ -49,24 +46,10 @@
 				<div class="footer-widget">
 					<h3 class="w-title">Our Services</h3>
 					<ul>
-						<li>
-							<a href="{{ route(('campingDetails')) }}">Tree Plantation</a>
-						</li>
-						<li>
-							<a href="{{ route(('campingDonation')) }}">Forest Cleaning</a>
-						</li>
-						<li>
-							<a href="{{ route(('servicesDetails')) }}">Plastic Recycling</a>
-						</li>
-						<li>
-							<a href="{{ route('project') }}">Natural Power</a>
-						</li>
-						<li>
-							<a href="{{ route('project') }}">Renewable Energy</a>
-						</li>
-						<li>
-							<a href="{{ route(('projectDetails')) }}">Water Refine</a>
-						</li>
+						<li><a href=" ">Coastal Assessment</a></li>
+						<li><a href=" ">Climae Education Awareness</a></li>
+						<li><a href=" ">ESG & CSR Implementation</a></li>
+						<li><a href=" ">Blue Carbon Readiness</a></li>
 					</ul>
 				</div>
 			</div>
@@ -92,7 +75,7 @@
 		<div class="footer-bottom-3">
 			<div class="footer-bottom-layout-2">
 				<div class="footer-copyright">
-					© {{ now()->year }} Econest. All Rights Reserved.
+					© {{ now()->year }} Coasterra. All Rights Reserved.
 				</div>
 				<div class="footer-bottom-menu">
 					<ul>

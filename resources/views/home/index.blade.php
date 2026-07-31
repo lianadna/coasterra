@@ -1713,12 +1713,12 @@
 							<p>Mon-Sat: <span>10:00am to 07:30pm</span></p>
 						</div>
 						<div class="social-links">
-							<!-- <a href="https://facebook.com">
+							<a href="https://facebook.com">
 								<i class="fab fa-facebook-f"></i>
 							</a>
 							<a href="https://twitter.com">
 								<i class="fab fa-x-twitter"></i>
-							</a> -->
+							</a>
 							<a href="https://www.instagram.com/coast.terra">
 								<i class="fab fa-instagram"></i>
 							</a>
@@ -1738,8 +1738,6 @@
 					<ul>
 						<li><a href="{{ route('about') }}">About Us</a></li>
 						<li><a href="{{ route('services') }}">Program</a></li>
-						<!-- <li><a href="{{ route(('campingDonation')) }}">Investor Presentation</a></li>
-						<li><a href="{{ route('donations') }}">Pricing Plan</a></li> -->
 						<li><a href="{{ route('volunteer') }}">Our Team</a></li>
 						<li><a href="{{ route('blogStandard') }}">Blog</a></li>
 						<li><a href="{{ route('contact') }}">Contact</a></li>
