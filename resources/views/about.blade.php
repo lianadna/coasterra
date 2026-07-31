@@ -489,13 +489,13 @@
 								Be part of our journey by sharing your experience with Coasterra.
 							</p>
 						</div>
-						<!-- <div class="reviews">
+						<div class="reviews">
 							<h3>
                                 <span class="purecounter" data-purecounter-duration="2" data-purecounter-end="99">0</span>%
 							</h3>
 							<img src="{{ asset('assets/img/logo/favicon.webp') }}" alt="favicon"/>
 							<h5>Positive Reviews</h5>
-						</div> -->
+						</div>
 						<a href="{{ route('contact') }}" class="review-btn">
 							<img src="{{ asset('assets/img/icons/icon-3.svg') }}" alt="icon"/>
 							<span><span>Write your honest review</span><i class="fa-solid fa-arrow-right-long"></i></span>
@@ -517,13 +517,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Joining Coasterra's activities gave me a deeper understanding of
+													Indonesia's coastal ecosystems. The team is welcoming, organized, and passionate
+													about creating positive environmental impact.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Nadia Putri <span>(Naput)</span></h5>
+												<h6>Volunteer</h6>
 											</div>
 										</div>
 									</div>
@@ -531,7 +532,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi-2.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -539,13 +540,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Coasterra brings together communities, researchers,
+													and organizations with a shared vision for healthier coastlines.
+													I'm excited to see their future initiatives grow.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Budi Santoso</h5>
+												<h6>Community Representative</h6>
 											</div>
 										</div>
 									</div>
@@ -553,7 +555,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi-3.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -561,13 +563,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Working with Coasterra has been a meaningful experience. Their data-driven
+													approach and commitment to coastal restoration make every collaboration
+													well-organized and impactful.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Arif Rahman <span>(Arif)</span></h5>
+												<h6>Partner</h6>
 											</div>
 										</div>
 									</div>
@@ -575,7 +578,7 @@
 								<div class="swiper-slide">
 									<div class="testimonial-card">
 										<div class="thumb">
-											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi.svg') }}">
+											<img alt="thumb-10" src="{{ asset('assets/img/thumbs/thumb-testi-4.svg') }}">
 											<a class="video-play-btn" data-fancybox="" href=" ">Play</a>
 										</div>
 										<div class="card-content">
@@ -583,13 +586,14 @@
 												<p>Rating</p><i class="fa-solid fa-star-sharp"></i> <span>5.0</span>
 											</div>
 											<div class="review">
-												<p>Real stories from our partners and communities will be shared here.
+												<p>Coasterra combines environmental action with community engagement in
+													a way that feels both practical and inspiring. It's encouraging to see a team committed
+													to creating long-term impact for Indonesia's coastal ecosystems.
 												</p>
 											</div>
 											<div class="author-details">
-												<!-- <h5>Penelope Miller <span>(Arjun)</span></h5> -->
-												<h5>Coming Soon <span>(Author)</span></h5>
-												<h6>Partner Testimonials</h6>
+												<h5>Michelle Tan <span>(Michelle)</span></h5>
+												<h6>Sustainability Advocate</h6>
 											</div>
 										</div>
 									</div>
@@ -619,44 +623,20 @@
 				<div class="col-xl-12">
 					<div class="partner-marquee">
 						<div class="partner-marquee-layout">
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-2.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-3.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-4.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-5.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-6.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-7.webp') }}" alt="partner-logo"/>
-							</div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
 						</div>
 						<div class="partner-marquee-layout">
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-2.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-3.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-4.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-5.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-6.webp') }}" alt="partner-logo"/>
-							</div>
-							<div class="partner-1">
-								<img src="{{ asset('assets/img/logo/logo-7.webp') }}" alt="partner-logo"/>
-							</div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
+							<div class="partner-1"><img alt="partner-logo" src="{{ asset('assets/img/logo/logo-pulau-kelapa.svg') }}"></div>
 						</div>
 					</div>
 				</div>
@@ -683,7 +663,7 @@
 						<span>Our Arrange</span>
 					</div>
 					<div class="common-title m-b-0 style-color-3 text-start" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-						<h2>Econest Upcoming Events</h2>
+						<h2>Coasterra Upcoming Events</h2>
 					</div>
 				</div>
 				<div class="col-xl-6 col-md-4 text-md-end">
@@ -700,29 +680,28 @@
 					<div class="event-card-2 m-b-30">
 						<div class="event-thumb">
 							<a href="{{ route(('campingDetails')) }}">
-								<img src="{{ asset('assets/img/thumbs/thumb-36.webp') }}" alt="thumb-1"/>
+								<img src="{{ asset('assets/img/thumbs/thumb-event-1.svg') }}" alt="thumb-1"/>
 							</a>
 							<div class="event-date">
-								<h5>12 Jan-20 Jan, 2025</h5>
+								<h5>August 30, 2026</h5>
 							</div>
 						</div>
 						<div class="card-content">
 							<div class="event-card-title">
 								<h2>
 									<a href="{{ route(('campingDetails')) }}">
-										The forest is our life, it is our job to keep the forest
-										clean
+										Mangrove Planting Day
 									</a>
 								</h2>
 							</div>
 							<div class="address">
 								<div class="time">
 									<i class="fa-regular fa-clock"></i>
-									<span>8:30am - 4:00pm</span>
+									<span>08:30 WIB - 16:00 WIB</span>
 								</div>
 								<div class="location">
 									<i class="fa-regular fa-location-dot"></i>
-									<span>Jones Street, New York</span>
+									<span>Pulau Kelapa, Kepulauan Seribu</span>
 								</div>
 							</div>
 							<div class="join-event">
@@ -735,7 +714,7 @@
 									</a>
 								</div>
 								<div class="top-right">
-									<img src="{{ asset('assets/img/authors/author-1.webp') }}" alt="authors"/>
+									<img src="{{ asset('assets/img/authors/author-1.svg') }}" alt="authors"/>
 									<div class="people-joined">
 										<h5>236</h5>
 										<span>Joined People</span>
@@ -748,29 +727,28 @@
 					<div class="event-card-2">
 						<div class="event-thumb">
 							<a href="{{ route(('campingDetails')) }}">
-								<img src="{{ asset('assets/img/thumbs/thumb-37.webp') }}" alt="thumb-2"/>
+								<img src="{{ asset('assets/img/thumbs/thumb-event-2.svg') }}" alt="thumb-2"/>
 							</a>
 							<div class="event-date">
-								<h5>12 Jan-20 Jan, 2025</h5>
+								<h5>September 14, 2026</h5>
 							</div>
 						</div>
 						<div class="card-content">
 							<div class="event-card-title">
 								<h2>
 									<a href="{{ route(('campingDetails')) }}">
-										The forest is our life, it is our job to keep the forest
-										clean
+										Coastal Clean-Up & Education
 									</a>
 								</h2>
 							</div>
 							<div class="address">
 								<div class="time">
 									<i class="fa-regular fa-clock"></i>
-									<span>9:00am - 6:00pm</span>
+									<span>09:00 WIB - 12:00 WIB</span>
 								</div>
 								<div class="location">
 									<i class="fa-regular fa-location-dot"></i>
-									<span>85 Great Portland Street, London</span>
+									<span>Pulau Kelapa, Kepulauan Seribu</span>
 								</div>
 							</div>
 							<div class="join-event">
@@ -783,7 +761,7 @@
 									</a>
 								</div>
 								<div class="top-right">
-									<img src="{{ asset('assets/img/authors/author-1.webp') }}" alt="authors"/>
+									<img src="{{ asset('assets/img/authors/author-1.svg') }}" alt="authors"/>
 									<div class="people-joined">
 										<h5>162</h5>
 										<span>Joined People</span>
