@@ -1485,7 +1485,7 @@
 							<p>Insights, research, and updates from Coasterra.</p>
 						</div>
 						<div class="blog-btn">
-							<a class="e-primary-btn has-icon" href="{{ route(('blogGrid')) }}">Explore All Posts
+							<a class="e-primary-btn has-icon" href=" ">Explore All Posts
 								<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 						</div>
 					</div>
@@ -1497,9 +1497,9 @@
 								<div class="swiper-slide">
 									<div class="blog-card">
 										<div class="thumb">
-											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-5" src="{{ asset('assets/img/thumbs/thumb-news-1.svg') }}"></a>
+											<a href=""><img alt="thumb-5" src="{{ asset('assets/img/thumbs/thumb-news-1.svg') }}"></a>
 											<div class="category">
-												<a href="{{ route(('blogDetails')) }}">Mangrove</a>
+												<a href="">Mangrove</a>
 											</div>
 											<div class="event-date">
 												<h2>26</h2>
@@ -1509,7 +1509,7 @@
 										<div class="content">
 											<div class="content-top p-0 m-b-20">
 												<div class="title">
-													<h3><a href="{{ route(('blogDetails')) }}">Today is World Mangrove Day!</a></h3>
+													<h3><a href="">Today is World Mangrove Day!</a></h3>
 												</div>
 												<div class="text">
 													<p>Keberadaan pohon-pohon pesisir ini sangat krusial
@@ -1518,7 +1518,7 @@
 												</div>
 											</div>
 											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read More
+												<a class="e-primary-btn has-icon has-small" href=" ">Read More
 													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 												<div class="social-share">
 													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
@@ -1537,9 +1537,9 @@
 								<div class="swiper-slide">
 									<div class="blog-card">
 										<div class="thumb">
-											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-6" src="{{ asset('assets/img/thumbs/thumb-news-2.svg') }}"></a>
+											<a href=" "><img alt="thumb-6" src="{{ asset('assets/img/thumbs/thumb-news-2.svg') }}"></a>
 											<div class="category">
-												<a href="{{ route(('blogDetails')) }}">Coasterra</a>
+												<a href=" ">Coasterra</a>
 											</div>
 											<div class="event-date">
 												<h2>10</h2>
@@ -1549,7 +1549,7 @@
 										<div class="content">
 											<div class="content-top p-0 m-b-20">
 												<div class="title">
-													<h3><a href="{{ route(('blogDetails')) }}">Introducing Coasterra</a></h3>
+													<h3><a href=" ">Introducing Coasterra</a></h3>
 												</div>
 												<div class="text">
 													<p>Nature-Based Climate Solutions for Coastal
@@ -1558,7 +1558,7 @@
 												</div>
 											</div>
 											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read More
+												<a class="e-primary-btn has-icon has-small" href=" ">Read More
 													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
 												<div class="social-share">
 													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
@@ -1574,86 +1574,6 @@
 										</div>
 									</div>
 								</div>
-								<!-- <div class="swiper-slide">
-									<div class="blog-card">
-										<div class="thumb">
-											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-5" src="{{ asset('assets/img/thumbs/thumb-5.webp') }}"></a>
-											<div class="category">
-												<a href="{{ route(('blogDetails')) }}">Forest</a>
-											</div>
-											<div class="event-date">
-												<h2>09</h2>
-												<h5>Jan</h5><span>2026</span>
-											</div>
-										</div>
-										<div class="content">
-											<div class="content-top p-0 m-b-20">
-												<div class="title">
-													<h3><a href="{{ route(('blogDetails')) }}">Waste Management</a></h3>
-												</div>
-												<div class="text">
-													<p>Energy consulting involves providing of advice and guidance on
-														energy</p>
-												</div>
-											</div>
-											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read
-													More
-													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
-												<div class="social-share">
-													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
-														<span>367</span></button>
-													<div class="social-links">
-														<a href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
-														<a href="https://twitter.com"><i class="fab fa-x-twitter"></i></a>
-														<a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
-														<a href="https://linkedin.com"><i class="fab fa-linkedin-in"></i></a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="swiper-slide">
-									<div class="blog-card">
-										<div class="thumb">
-											<a href="{{ route(('blogDetails')) }}"><img alt="thumb-6" src="{{ asset('assets/img/thumbs/thumb-6.webp') }}"></a>
-											<div class="category">
-												<a href="{{ route(('blogDetails')) }}">Recycle</a>
-											</div>
-											<div class="event-date">
-												<h2>24</h2>
-												<h5>Feb</h5><span>2026</span>
-											</div>
-										</div>
-										<div class="content">
-											<div class="content-top p-0 m-b-20">
-												<div class="title">
-													<h3><a href="{{ route(('blogDetails')) }}">Waste Management</a></h3>
-												</div>
-												<div class="text">
-													<p>Energy consulting involves providing of advice and guidance on
-														energy</p>
-												</div>
-											</div>
-											<div class="content-bottom">
-												<a class="e-primary-btn has-icon has-small" href="{{ route(('blogDetails')) }}">Read
-													More
-													<span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i><i class="fa-regular fa-arrow-right"></i></span></span></a>
-												<div class="social-share">
-													<button class="total-shared"><i class="fa-solid fa-share-nodes"></i>
-														<span>367</span></button>
-													<div class="social-links">
-														<a href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
-														<a href="https://twitter.com"><i class="fab fa-x-twitter"></i></a>
-														<a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
-														<a href="https://linkedin.com"><i class="fab fa-linkedin-in"></i></a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div> -->
-								<!-- </div> -->
 							</div>
 						</div>
 						<div class="blog-pagination"></div>
@@ -1751,12 +1671,6 @@
 						Our Services
 					</h3>
 					<ul>
-						<!-- <li><a href="{{ route(('campingDetails')) }}">Coastal Assessment</a></li>
-						<li><a href="{{ route(('campingDonation')) }}">CSR Project Management</a></li>
-						<li><a href="{{ route(('servicesDetails')) }}">Climate Education</a></li>
-						<li><a href="{{ route('project') }}">ESG Reporting</a></li>
-						<li><a href="{{ route('project') }}">Carbon Readiness</a></li>
-						<li><a href="{{ route(('projectDetails')) }}">Blue Carbon Enablement</a></li> -->
 						<li><a href=" ">Coastal Assessment</a></li>
 						<li><a href=" ">Climae Education Awareness</a></li>
 						<li><a href=" ">ESG & CSR Implementation</a></li>
